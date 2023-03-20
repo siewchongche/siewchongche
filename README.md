@@ -2,7 +2,7 @@
 
 ### I am a blockchain developer focus on smart contract development.
 
-### My skills include writing smart contract and backend code.
+### My skills including writing smart contract and backend code.
 
 ### I'm familiar with Solidity, JavaScript, TypeScript, Python, and Rust.
 
